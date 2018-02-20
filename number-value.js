@@ -1,5 +1,5 @@
 ////////////////////////////////////////////////////
-// Custom Column - Format as Number w/ Commas
+// Custom Column - Format as Number w/ Commas 
 ////////////////////////////////////////////////////
 var numberColumn = React.createClass({
     render() {
